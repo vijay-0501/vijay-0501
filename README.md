@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vijay</h1>
+<h1 align="center">Hi, I'm Vijay</h1>
 <h3 align="center">Full Stack Developer | Building robust apps with Java & modern web tech</h3>
 
 <p align="center">
@@ -7,15 +7,15 @@
 
 ---
 
-### 🙋‍♂️ About Me
+### About Me
 
-- 🌱 I'm constantly learning and improving my skills
+- I'm constantly learning and improving my skills
 
-- 📫 Reach me at: **github.com/vijay-0501**
+- Reach me at: **github.com/vijay-0501**
 
 ---
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 #### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -49,7 +49,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -58,7 +58,7 @@
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://github.com/vijay-0501" target="_blank">
@@ -68,4 +68,4 @@
 
 ---
 
-<p align="center">⭐ <i>If you find my work interesting, feel free to star my repos!</i> ⭐</p>
+<p align="center"> <i>If you find my work interesting, feel free to star my repos!</i> </p>

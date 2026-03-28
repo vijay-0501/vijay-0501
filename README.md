@@ -38,28 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijay-0501&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-0501&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-0501&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-### Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔧 **DCA_project** | My first GitHub project | Java |
-| ➕ *More coming soon...* | Stay tuned! | |
-
----
-
 ### Connect With Me
 
 <p align="left">

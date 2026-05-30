@@ -154,7 +154,7 @@ public class Vijay extends Developer {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijay-0501)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayyc5104@gmail.com)
 
-*"Write clean code. Ship great products."*
+*"Humble to learn. Hungry to grow. Hustling to build."*
 
 </div>
 

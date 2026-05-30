@@ -1,41 +1,45 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vijay%20C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20Applications&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=180&section=header&text=Vijay%20C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20Applications&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%2B+React.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Building+Scalable+REST+APIs+%F0%9F%94%A7;Open+to+Exciting+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijay-0501&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
-  <a href="mailto:vijayyc5104@gmail.com"><img src="https://img.shields.io/badge/Email-vijayyc5104%40gmail.com-70a5fd?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-bf91f3?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%2B+React.js+Enthusiast;Building+Scalable+REST+APIs;Open+to+Exciting+Opportunities!!" alt="Typing SVG" />
+  <br/>
+  <a href="https://mail.google.com/mail/?view=cm&to=vijayyc5104@gmail.com"><img src="https://img.shields.io/badge/Email-vijayyc5104%40gmail.com-38bdf8?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-0ea5e9?style=flat-square&logo=googlemaps&logoColor=white"/>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ```java
-public class Vijay {
+/**
+ * @author  Vijay C
+ * @role    Java Full Stack Developer
+ * @status  Open to Work
+ */
+public class Vijay extends Developer {
 
-    String name        = "Vijay C";
-    String location    = "Bangalore, Karnataka, India";
-    String degree      = "B.E. Computer Science & Engineering";
-    String college     = "Priyadarshini Engineering College";
+    String location  = "Bangalore, India";
+    String degree    = "B.E. Computer Science & Engineering";
 
-    String[] stack = {
-        "Java", "Spring Boot", "React.js",
-        "MySQL", "REST APIs", "Docker", "Git"
+    String[] backend  = { "Java", "Spring Boot", "Hibernate", "REST APIs" };
+    String[] frontend = { "React.js", "JavaScript", "HTML5", "CSS3" };
+    String[] tools    = { "MySQL", "Docker", "Git", "Postman", "Maven" };
+
+    String[] highlights = {
+        "Full Stack E-Commerce App — SalesSavvy",
+        "JWT Authentication + Role-Based Access Control",
+        "Razorpay Payment Gateway Integration"
+        
     };
 
-    String funFact = "I once built a sunflower-inspired"
-                   + " solar tracker with Arduino! 🌻⚡";
+    @Override
+     public String passion() {
+        return "Clean APIs. Scalable Systems. Real Impact.";
+    }
 
-    String motto() {
-        return "Write clean code. Ship great products.";
+    public static void main(String[] args) {
+        System.out.println("Humble to learn. Hungry to grow. Hustling to build.");
     }
 }
 ```
@@ -78,7 +82,7 @@ public class Vijay {
 ---
 
 
-## 💼 Work Experience
+## Work Experience
 
 <details>
   <summary>🏢 <strong>KodNest Technologies</strong> — Java Full Stack Development Intern &nbsp;|&nbsp; Jul 2025 – Mar 2026 &nbsp;|&nbsp; Bangalore, India</summary>
@@ -90,39 +94,39 @@ public class Vijay {
   > ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   > ![Agile](https://img.shields.io/badge/Agile-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
-  - 📚 Mastered core Java programming, OOP principles, and SQL database management through structured training
-  - 🤝 Collaborated within agile teams; actively participated in code reviews and sprint-based delivery cycles
-  - 🐛 Performed debugging and root-cause analysis, delivering robust solutions for development tasks
-  - ✅ Implemented industry best practices in code quality, version control, and software design patterns
+  - Mastered core Java programming, OOP principles, and SQL database management through structured training
+  - Collaborated within agile teams; actively participated in code reviews and sprint-based delivery cycles
+  - Performed debugging and root-cause analysis, delivering robust solutions for development tasks
+  - Implemented industry best practices in code quality, version control, and software design patterns
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**🛒 SalesSavvy**](https://github.com/vijay-0501/salessavvybackend) | `Spring Boot` `React.js` `MySQL` `JWT` `Razorpay` `Docker` | Full-stack e-commerce app with JWT auth, RBAC, Razorpay payment integration, and modular REST APIs for cart, orders & products |
+| [**🛒 SalesSavvy**](https://github.com/vijay-0501/salessavvybackend) | `Spring Boot` `React.js` `MySQL` `JWT` `Razorpay` `Docker` | Full-stack e-commerce web-app with Spring Boot, JWT auth, RBAC, Razorpay payment integration, and modular REST APIs for cart, orders & products |
 | [**🌞 Hybrid Wind-Solar Tracker**](https://github.com/vijay-0501) | `Arduino` `IoT` `Servo Motors` `LDR Sensors` | Sunflower-inspired solar tracking mechanism using dual servo motors & LDR sensors; hybrid wind-solar system for optimized power generation |
 
 </div>
 
 ---
 
-## 🎯 Achievements
+## Achievements
 
 <div align="center">
 
-| 🏅 | Achievement | Details |
+| | Achievement | Details |
 |---|---|---|
-| 🎓 | B.E. Computer Science | CGPA: **7.5 / 10** — Priyadarshini Engineering College (2021–2025) |
-| 💡 | Full Stack Training — KodNest | Completed industry-grade Java Full Stack Development program, Bangalore |
-| 🌿 | IoT Innovation | Built a hardware-software hybrid energy system combining solar tracking & wind generation |
-| 💳 | Payment Integration | Implemented live Razorpay payment gateway in SalesSavvy production build |
-| 🔐 | Security Implementation | Designed JWT-based authentication + role-based access control from scratch |
+| 🎓 | B.E. Computer Science | CGPA: 7.5 / 10 — Priyadarshini Engineering College (2021–2025) |
+| 📜 | Full Stack Training | Completed Java Full Stack Development program — KodNest, Bangalore |
+| 🔌 | IoT Project | Built a hybrid solar-wind energy system with Arduino-based solar tracking |
+| 💳 | Payment Integration | Integrated Razorpay payment gateway in SalesSavvy |
+| 🔐 | Security Implementation | JWT authentication with role-based access control |
 
 </div>
 
@@ -144,14 +148,14 @@ public class Vijay {
 
 <div align="center">
 
-### 📬 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-c-87426a300/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijay-0501)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayyc5104@gmail.com)
 
-*"Write clean code. Ship great products."* 💻✨
+*"Write clean code. Ship great products."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=120&section=footer&animation=twinkling" width="100%"/>

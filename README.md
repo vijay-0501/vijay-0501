@@ -3,8 +3,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%2B+React.js+Enthusiast;Building+Scalable+REST+APIs;Open+to+Exciting+Opportunities!!" alt="Typing SVG" />
   <br/>
-    <a href="mailto:vijayyc5104@gmail.com"><img src="https://img.shields.io/badge/Email-vijayyc5104%40gmail.com-0284c7?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-0369a1?style=flat-square&logo=googlemaps&logoColor=white"/>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&to=vijayyc5104@gmail.com&tf=cm"><img src="https://img.shields.io/badge/Email-vijayyc5104%40gmail.com-22d3ee?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-06b6d4?style=flat-square&logo=googlemaps&logoColor=white"/>
 </div>
 
 ---
@@ -151,7 +151,7 @@ public class Vijay extends Developer {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-c-87426a300/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijay-0501)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayyc5104@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=vijayyc5104@gmail.com&tf=cm)
 
 *"Humble to learn. Hungry to grow. Hustling to build."*
 

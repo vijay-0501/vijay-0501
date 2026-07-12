@@ -78,7 +78,7 @@ public class Vijay extends Developer {
 ## Work Experience
 
 <details>
-  <summary>🏢 <strong>KodNest Technologies</strong> — Java Full Stack Development Intern &nbsp;|&nbsp; Jul 2025 – Mar 2026 &nbsp;|&nbsp; Bangalore, India</summary>
+  <summary>🏢 <strong>KodNest Technologies</strong> — Java Full Stack Development Trainee &nbsp;|&nbsp; Jul 2025 – Mar 2026 &nbsp;|&nbsp; Bangalore, India</summary>
   <br/>
 
   > ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)

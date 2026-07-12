@@ -26,17 +26,10 @@ public class Vijay extends Developer {
     String[] frontend = { "React.js", "JavaScript", "HTML5", "CSS3" };
     String[] tools    = { "MySQL", "Docker", "Git", "Postman", "Maven" };
 
-    String[] highlights = {
-        "Full Stack E-Commerce App — SalesSavvy",
-        "URL Shortener with Analytics — SmartLink",
-        "JWT Authentication + Role-Based Access Control",
-        "Razorpay Payment Gateway Integration"
+    String[] projects = {
+        "SalesSavvy — Full Stack E-Commerce App",
+        "SmartLink — URL Shortener with Analytics"
     };
-
-    @Override
-    public String passion() {
-        return "Clean APIs. Scalable Systems. Real Impact.";
-    }
 
     public static void main(String[] args) {
         System.out.println("Humble to learn. Hungry to grow. Hustling to build.");

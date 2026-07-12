@@ -28,6 +28,7 @@ public class Vijay extends Developer {
 
     String[] highlights = {
         "Full Stack E-Commerce App — SalesSavvy",
+        "URL Shortener with Analytics — SmartLink",
         "JWT Authentication + Role-Based Access Control",
         "Razorpay Payment Gateway Integration"
     };
@@ -109,7 +110,7 @@ public class Vijay extends Developer {
 | Project | Stack | Highlights |
 |---|---|---|
 | [**🛒 SalesSavvy**](https://github.com/vijay-0501/salessavvybackend) | `Spring Boot` `React.js` `MySQL` `JWT` `Razorpay` `Docker` | Full-stack e-commerce web-app with Spring Boot, JWT auth, RBAC, Razorpay payment integration, and modular REST APIs for cart, orders & products |
-| [**🌞 Hybrid Wind-Solar Tracker**](https://github.com/vijay-0501) | `Arduino` `IoT` `Servo Motors` `LDR Sensors` | Sunflower-inspired solar tracking mechanism using dual servo motors & LDR sensors; hybrid wind-solar system for optimized power generation |
+| [**🔗 SmartLink**](https://github.com/vijay-0501/smartlink-backend) | `Spring Boot` `React.js` `MySQL` `Hibernate` | Full-stack URL shortener with custom Base62 encoding for collision-free short codes, click analytics tracking via one-to-many schema, and REST APIs for creation, redirection & stats |
 
 </div>
 
@@ -123,7 +124,7 @@ public class Vijay extends Developer {
 |---|---|---|
 | 🎓 | B.E. Computer Science | CGPA: 7.5 / 10 — Priyadarshini Engineering College (2021–2025) |
 | 📜 | Full Stack Training | Completed Java Full Stack Development program — KodNest, Bangalore |
-| 🔌 | IoT Project | Built a hybrid solar-wind energy system with Arduino-based solar tracking |
+| 🔗 | URL Shortener | Built SmartLink with custom Base62 encoding and click analytics |
 | 💳 | Payment Integration | Integrated Razorpay payment gateway in SalesSavvy |
 | 🔐 | Security Implementation | JWT authentication with role-based access control |
 
